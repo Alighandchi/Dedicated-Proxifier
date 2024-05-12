@@ -25,6 +25,9 @@ As Premium Proxifier Profile strives to create an environment for business growt
 
 As a major proxy provider Premium Proxifier Profile prevents abuse on its network by blocking some servers targeted by fraudulent activity. No legal use case is prevented after a simple KYC process where a suspected fraudulent client provides information about their use case. Thanks to this, Premium Proxifier Profile gains a lot of information about the newest and most unorthodox business cases.
 
+## Requirements & Instructions
+[Proxifier Profile](https://github.com/Alighandchi/Proxifier)
+
 ## Why customers use Premium Proxifier Profile
 
 <details>
