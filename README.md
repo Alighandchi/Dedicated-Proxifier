@@ -24,3 +24,24 @@ Unlike other proxy providers, Dedicated Proxifier gives clients access to any nu
 As Dedicated Proxifier strives to create an environment for business growth, it is the go-to major proxy provider for startup founders and single-preneurs – people exploring new and experimental ways of making money by accessing data and goods.
 
 As a major proxy provider Dedicated Proxifier prevents abuse on its network by blocking some servers targeted by fraudulent activity. No legal use case is prevented after a simple KYC process where a suspected fraudulent client provides information about their use case. Thanks to this, Dedicated Proxifier gains a lot of information about the newest and most unorthodox business cases.
+
+## Why customers use Dedicated Proxifier
+
+<details>
+  <summary>Click for why use Dedicated Proxifier</summary>
+
+    ### Rotating proxies
+    Our rotating proxy network lets you switch to a new proxy without any effort, thanks to our advanced proxy rotation.
+
+    ### Any location
+    Access proxies only in your chosen location with over 195+ locations, including any city in the world and 50 US states.
+
+    ### Anonymous proxies
+    Stay safe and sound with our anonymous proxies. They never give away your real IP address or location.
+
+    ### Residential proxies
+    Use unique residential IP addresses of real mobile and desktop devices. Extremely low recaptcha rates and the highest success rates.
+
+    ### Backconnect proxies
+    Our residential backconnect proxy rotates to a new IP address for each connection or lets you use unlimited sticky IP sessions.
+</details>
