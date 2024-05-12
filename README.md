@@ -1,7 +1,7 @@
 # Choose Dedicated Proxifier
 Dedicated Proxifier is determined to provide easy-to-use data access solutions and proxy management tools for anyone. With us, you level the playing field against huge data hoarding companies, competitors and more technically-able companies.
 
-
+![LoadBalanceproxy-removebg-preview](https://github.com/Alighandchi/Dedicated-Proxifier/assets/68125265/894bb1bf-1025-4500-9ff8-694f479433ad)
 
 
 ## Why Dedicated Proxifier
@@ -30,18 +30,34 @@ As a major proxy provider Dedicated Proxifier prevents abuse on its network by b
 <details>
   <summary>Click for why use Dedicated Proxifier</summary>
 
-    ### Rotating proxies
-    Our rotating proxy network lets you switch to a new proxy without any effort, thanks to our advanced proxy rotation.
+### Rotating proxies
+Our rotating proxy network lets you switch to a new proxy without any effort, thanks to our advanced proxy rotation.
 
-    ### Any location
-    Access proxies only in your chosen location with over 195+ locations, including any city in the world and 50 US states.
+### Any location
+Access proxies only in your chosen location with over 195+ locations, including any city in the world and 50 US states.
 
-    ### Anonymous proxies
-    Stay safe and sound with our anonymous proxies. They never give away your real IP address or location.
+### Anonymous proxies
+Stay safe and sound with our anonymous proxies. They never give away your real IP address or location.
 
-    ### Residential proxies
-    Use unique residential IP addresses of real mobile and desktop devices. Extremely low recaptcha rates and the highest success rates.
+### Residential proxies
+Use unique residential IP addresses of real mobile and desktop devices. Extremely low recaptcha rates and the highest success rates.
 
-    ### Backconnect proxies
-    Our residential backconnect proxy rotates to a new IP address for each connection or lets you use unlimited sticky IP sessions.
+### Backconnect proxies
+Our residential backconnect proxy rotates to a new IP address for each connection or lets you use unlimited sticky IP sessions.
+
+### Datacenter proxies
+US datacenter proxies for speed and scale. Datacenter proxies with 100 subnets.
+
+### No subnets
+Residential proxies share no subnetwork, so are immune to bulk bans. Every residential IP address in our pool is unique!
+
+### IPv4
+Use the best IPv4 addresses to access any target with ease! High value proxy pool.
+
+### HTTP/Socks
+Change to a new proxy for each HTTP/HTTPS request and profit from unlimited connections.
+
+### Unlimited threads
+Use advanced rotation for every concurrent connection and use unlimited threads to scrape or automate anything.
+
 </details>
